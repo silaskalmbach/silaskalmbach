@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### About Me
+Hey my name is Silas and I am happy to welcome you on my site.
+I studied civil engineering at the Stuttgart University of Applied Sciences, the Universidad de Jaén and the University of Stuttgart. Currently I work as an academic assistant in research and teaching at the Institute for Lightweight Structures and Conceptual Design at the University of Stuttgart. I really enjoy working with students and having the opportunity to constantly face new critical questions.
+
+### Contact Details
+Silas Kalmbach
+info@silaskalmbach.de
+
+
 <!--
 **silaskalmbach/silaskalmbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
